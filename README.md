@@ -1,4 +1,4 @@
-# React app with app authentication and basic authenticated Api Calls
+# React app - authentication and basic authenticated Api Calls
 
 1.Register the user
 
