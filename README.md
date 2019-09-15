@@ -1,3 +1,19 @@
+# React app with app authentication and basic authenticated Api Calls
+
+1.Register the user
+
+2.Login with credentials 
+
+3.Validate the user and store the token in localstorage and user can access the store details untill he logs out of the app.
+
+4.Logout and clear the token
+
+5.Redirect to login
+
+
+BacKend Api - Node with mysql
+https://github.com/karthi2890/NodeJS_mysql_CRUD_Authentication
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
