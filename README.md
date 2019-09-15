@@ -11,7 +11,7 @@
 5.Redirect to login
 
 
-BacKend Api - Node with mysql
+Backend Api - Node with mysql
 https://github.com/karthi2890/NodeJS_mysql_CRUD_Authentication
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
